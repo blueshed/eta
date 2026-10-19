@@ -1,3 +1,5 @@
+> **This repository has moved** into the bluetools monorepo: [blueshed/dzql, `packages/dzql`](https://github.com/blueshed/dzql/tree/main/packages/dzql). It is archived here; what follows is how it stood when it moved.
+
 # eta
 
 **Live apps for a few people at once, told as stories and checked by them.**
